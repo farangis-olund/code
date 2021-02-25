@@ -42,7 +42,7 @@ section {
 }
 
 #navbarNav {
-    display: block !important;
+    /* display: block !important; */
 }
 
 .navbar-nav {
