@@ -41,10 +41,6 @@ section {
     box-shadow: 0 1px 0px 0px #ddd;
 }
 
-#navbarNav {
-    /* display: block !important; */
-}
-
 .navbar-nav {
     float: right;
 }
