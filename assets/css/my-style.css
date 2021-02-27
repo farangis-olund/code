@@ -54,6 +54,11 @@ section {
     border-bottom: 1px solid #ddd;
 }
 
+.section-border {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .info-icon {
     font-size: 4em;
     text-align: center;
